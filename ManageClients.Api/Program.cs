@@ -9,6 +9,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddServiceLayer();
+//builder.WebHost.UseUrls("http://localhost:8090");
+builder.Services.AddCors(p => p.AddPolicy("corsapp", builder =>
+{
+    builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+}));
 
 var app = builder.Build();
 
@@ -18,6 +23,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("corsapp");
 
 app.UseHttpsRedirection();
 
