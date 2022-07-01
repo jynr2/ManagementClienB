@@ -1,0 +1,12 @@
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\bin\Debug\net6.0\ManageClients.Service.deps.json
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\bin\Debug\net6.0\ManageClients.Service.dll
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\bin\Debug\net6.0\ManageClients.Service.pdb
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.csproj.AssemblyReference.cache
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.AssemblyInfoInputs.cache
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.AssemblyInfo.cs
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.csproj.CoreCompileInputs.cache
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.dll
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\refint\ManageClients.Service.dll
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ManageClients.Service.pdb
+C:\Users\jhonm\Documents\jyn docs\Projects\ManageClients\ManageClients.Service\obj\Debug\net6.0\ref\ManageClients.Service.dll
